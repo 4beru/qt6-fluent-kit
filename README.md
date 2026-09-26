@@ -52,24 +52,12 @@ Qt6 Fluent Kit (FluentQt) is a cross-platform Fluent UI component library for Qt
 
 ### C++ / CMake
 
-For a versioned integration, use the public repository as the Git source for a release:
+The public repository is the project reference and release entry point. It does not contain the private implementation tree.
 
-```cmake
-include(FetchContent)
-
-FetchContent_Declare(
-    fluentqt
-    GIT_REPOSITORY https://github.com/4beru/qt6-fluent-kit.git
-    GIT_TAG v1.8.5
-    GIT_SHALLOW TRUE
-)
-
-FetchContent_MakeAvailable(fluentqt)
-```
-
-> The public repository is the distribution and release reference for Qt6 Fluent Kit. The implementation repository is maintained separately.
+For C++ integration, use the source package or release artifact published for the version you need, following the installation instructions in the [project documentation](https://fluentkit.aberu.site/).
 
 ### Python
+
 
 The optional Python bindings are distributed through PyPI:
 
@@ -93,9 +81,13 @@ The complete reader-facing documentation is published through the project websit
 
 ## 🤖 AI-assisted development
 
-Qt6 Fluent Kit includes guidance for AI coding agents and machine-readable API information. The website is the public entry point for these resources.
+The public website exposes the AI-oriented documentation and machine-readable API guidance:
+
+- [AI-assisted development](https://fluentkit.aberu.site/)
+- [API Explorer](https://fluentkit.aberu.site/api/)
 
 ## 🤝 Community
+
 
 Use GitHub Discussions for questions, ideas and project conversations. Use Issues for reproducible bugs and focused changes.
 
