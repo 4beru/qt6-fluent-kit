@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://fluentkit.aberu.site/favicon.svg" width="88" alt="Qt6 Fluent Kit logo">
-</p>
-
 <h1 align="center">Qt6 Fluent Kit</h1>
 
 <p align="center">
