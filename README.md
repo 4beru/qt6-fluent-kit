@@ -67,6 +67,14 @@ Gallery packages are available through PyPI as well:
 python -m pip install FluentQt-Gallery
 ```
 
+## 🧪 Example
+
+A complete C++/Qt hello-world consumer is available in the public repository:
+
+[Open the `examples/hello_world` example](https://github.com/4beru/qt6-fluent-kit/tree/main/examples/hello_world)
+
+The example uses the installed `FluentQt::FluentQt` package and keeps the implementation-facing identifiers unchanged.
+
 ## 📚 Documentation
 
 The complete reader-facing documentation is published through the project website.
