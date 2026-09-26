@@ -2,7 +2,7 @@
   English | 简体中文
 </p>
 
-<h1 align="center">Qt6 Fluent Kit</h1>
+<h1 align="center">Fluent-Kit</h1>
 
 <p align="center">
   面向 Qt6 Widgets 的跨平台 Fluent 风格 C++ UI 组件库。
@@ -20,7 +20,7 @@
   <a href="https://github.com/4beru/qt6-fluent-kit/discussions">Discussions</a>
 </p>
 
-Qt6 Fluent Kit（FluentQt）是面向 Qt Widgets 的跨平台 Fluent UI 组件库，提供输入、导航、集合、数据表格、图表、弹窗和窗口等原生控件，并保留 Qt 熟悉的对象模型和 CMake 工作流。
+Fluent-Kit（FluentQt）是面向 Qt Widgets 的跨平台 Fluent UI 组件库，提供输入、导航、集合、数据表格、图表、弹窗和窗口等原生控件，并保留 Qt 熟悉的对象模型和 CMake 工作流。
 
 ## ✨ 特性
 
@@ -70,6 +70,14 @@ Gallery 同样可以通过 PyPI 安装：
 python -m pip install FluentQt-Gallery
 ```
 
+## 🧩 示例
+
+公开仓库包含完整的 C++ / Qt Hello World 示例：
+
+[打开 `examples/hello_world` 示例](https://github.com/4beru/qt6-fluent-kit/tree/main/examples/hello_world)
+
+示例使用已安装的 `FluentQt::FluentQt` 包，保留实现层的技术标识。
+
 ## 📚 文档
 
 完整的面向使用者文档发布在项目官网：
@@ -88,9 +96,9 @@ python -m pip install FluentQt-Gallery
 
 请勿通过公开 Issues 或 Discussions 披露安全漏洞。安全问题请按照 [SECURITY.md](SECURITY.md) 中的流程进行私下报告。
 
-## 📄 许可证
+## 📄 公共仓库条款
 
-Qt6 Fluent Kit 自有源代码采用 MIT License。捆绑资产和运行时依赖继续遵循其上游许可证，请参阅 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+本公开参考仓库中的文件遵循 [LICENSE](LICENSE) 中的条款。实际实现源码与本仓库分开维护。
 
 ## ™️ 商标
 

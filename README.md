@@ -1,4 +1,4 @@
-<h1 align="center">Qt6 Fluent Kit</h1>
+<h1 align="center">Fluent-Kit</h1>
 
 <p align="center">
   A cross-platform Fluent-style C++ UI component library for Qt6 Widgets.
@@ -67,9 +67,9 @@ Gallery packages are available through PyPI as well:
 python -m pip install FluentQt-Gallery
 ```
 
-## 🧪 Example
+## 🧩 Example
 
-A complete C++/Qt hello-world consumer is available in the public repository:
+A complete C++/Qt Hello World consumer is available in the public repository:
 
 [Open the `examples/hello_world` example](https://github.com/4beru/qt6-fluent-kit/tree/main/examples/hello_world)
 
@@ -101,9 +101,9 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
 
 Do not disclose security vulnerabilities through public Issues or Discussions. Follow [SECURITY.md](SECURITY.md) for the private reporting process.
 
-## 📄 License
+## 📄 Public repository terms
 
-Qt6 Fluent Kit's own source code is released under the MIT License. Bundled assets and runtime dependencies retain their upstream terms; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+Files in this public reference repository are provided under the terms in [LICENSE](LICENSE). The implementation source is maintained separately from this repository.
 
 ## ™️ Trademarks
 
