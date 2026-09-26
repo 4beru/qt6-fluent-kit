@@ -52,20 +52,7 @@ Qt6 Fluent Kit（FluentQt）是面向 Qt Widgets 的跨平台 Fluent UI 组件�
 
 ### C++ / CMake
 
-正式版本可以通过公开仓库按版本标签集成：
-
-```cmake
-include(FetchContent)
-
-FetchContent_Declare(
-    fluentqt
-    GIT_REPOSITORY https://github.com/4beru/qt6-fluent-kit.git
-    GIT_TAG v1.8.5
-    GIT_SHALLOW TRUE
-)
-
-FetchContent_MakeAvailable(fluentqt)
-```
+正式版本通过公开仓库中的 Release 入口获取对应版本的发行包。实际安装方式和各平台说明请参阅[项目文档](https://fluentkit.aberu.site/)。
 
 > 公开仓库负责发行版和 Release 入口，实际实现仓库单独维护。
 
