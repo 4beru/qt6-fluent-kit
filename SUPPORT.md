@@ -3,9 +3,9 @@
 > **Status:** Current guide
 
 <!-- docs-nav:top:start -->
-[Documentation](docs/README.md) › [Community](docs/community/README.md) › Participation and policy
+[Documentation](docs/README.md) › Community
 
-[← Contributing to FluentQt](CONTRIBUTING.md) · [Contents](docs/SUMMARY.md) · [Community index](docs/community/README.md) · [Security Policy →](SECURITY.md)
+[Documentation](docs/README.md) · [Support](SUPPORT.md) · [Security](SECURITY.md)
 <!-- docs-nav:top:end -->
 
 Fluent-Qt is maintained as an open-source project. Community support is best
@@ -43,5 +43,5 @@ security-sensitive public reports while pointing to the appropriate channel.
 
 <!-- docs-nav:bottom:start -->
 ---
-[← Contributing to FluentQt](CONTRIBUTING.md) · [Contents](docs/SUMMARY.md) · [Community index](docs/community/README.md) · [Security Policy →](SECURITY.md)
+[Documentation](docs/README.md) · [Support](SUPPORT.md) · [Security](SECURITY.md)
 <!-- docs-nav:bottom:end -->
