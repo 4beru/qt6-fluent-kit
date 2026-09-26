@@ -3,9 +3,9 @@
 > **Status:** Accepted contract
 
 <!-- docs-nav:top:start -->
-[Documentation](docs/README.md) › [Community](docs/community/README.md) › Participation and policy
+[Documentation](docs/README.md) › Community
 
-[← Support](SUPPORT.md) · [Contents](docs/SUMMARY.md) · [Community index](docs/community/README.md) · [Contributor Covenant Code of Conduct →](CODE_OF_CONDUCT.md)
+[Documentation](docs/README.md) · [Support](SUPPORT.md) · [Security](SECURITY.md)
 <!-- docs-nav:top:end -->
 
 ## Supported versions
@@ -51,5 +51,5 @@ the impact.
 
 <!-- docs-nav:bottom:start -->
 ---
-[← Support](SUPPORT.md) · [Contents](docs/SUMMARY.md) · [Community index](docs/community/README.md) · [Contributor Covenant Code of Conduct →](CODE_OF_CONDUCT.md)
+[Documentation](docs/README.md) · [Support](SUPPORT.md) · [Security](SECURITY.md)
 <!-- docs-nav:bottom:end -->
