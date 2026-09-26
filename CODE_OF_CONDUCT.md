@@ -3,9 +3,9 @@
 > **Status:** Accepted contract
 
 <!-- docs-nav:top:start -->
-[Documentation](docs/README.md) › [Community](docs/community/README.md) › Participation and policy
+[Documentation](docs/README.md) › Community
 
-[← Security Policy](SECURITY.md) · [Contents](docs/SUMMARY.md) · [Community index](docs/community/README.md)
+[Documentation](docs/README.md)
 <!-- docs-nav:top:end -->
 
 ## Our Pledge
@@ -126,5 +126,5 @@ available under the
 
 <!-- docs-nav:bottom:start -->
 ---
-[← Security Policy](SECURITY.md) · [Contents](docs/SUMMARY.md) · [Community index](docs/community/README.md)
+[Documentation](docs/README.md)
 <!-- docs-nav:bottom:end -->
